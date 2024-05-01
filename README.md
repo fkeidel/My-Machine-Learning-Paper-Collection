@@ -1,4 +1,5 @@
-![A neural network driving an autonomous car](neural_network_driving_autonomous_car.png)
+<img src=neural_network_driving_autonomous_car.png alt="A neural network driving an autonomous car" width="300">
+
 (image made by [DALL·E 2](https://openai.com/dall-e-2))
 
 # A collection of machine learning lane detection papers

@@ -2,7 +2,8 @@
 
 (image made by [DALL·E 2](https://openai.com/dall-e-2))
 
-# A collection of machine learning lane detection papers
+# My collection of machine learning papers
+## Lane Detection
 
 - [2022 - CurveFormer 3D Lane Detection by Curve Propagation with Curve Queries and Attention](Lane-Detection/2022%20-%20CurveFormer%203D%20Lane%20Detection%20by%20Curve%20Propagation%20with%20Curve%20Queries%20and%20Attention/2022%20-%20CurveFormer%203D%20Lane%20Detection%20by%20Curve%20Propagation%20with%20Curve%20Queries%20and%20Attention.md)
 - [2022 - ONCE-3DLanes - Building Monocular 3D Lane Detection](Lane-Detection/2022%20-%20ONCE-3DLanes%20-%20Building%20Monocular%203D%20Lane%20Detection/2022%20-%20ONCE-3DLanes%20-%20Building%20Monocular%203D%20Lane%20Detection.md)
